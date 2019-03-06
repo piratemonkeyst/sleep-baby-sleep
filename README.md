@@ -19,6 +19,7 @@ Link to privacy policy of third party service providers used by the app
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Fabric](https://fabric.io/privacy)
 *   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
+*   [Mopub](https://www.mopub.com/legal/privacy)
 
 **Log Data**
 
